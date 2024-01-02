@@ -1,0 +1,517 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="aande.br" tvg-name=" A&E-SD" tvg-logo="" group-title="FILMES E SERIES", A&E-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=" A&E-HD" tvg-logo="" group-title="FILMES E SERIES", A&E-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31806.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC-SD" tvg-logo="" group-title="FILMES E SERIES",AMC-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31807.m3u8
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC-HD" tvg-logo="" group-title="FILMES E SERIES",AMC-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Animal_Planet-SD" tvg-logo="" group-title="VARIEDADES",Animal_Planet-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31809.m3u8
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal_Planet-HD" tvg-logo="" group-title="VARIEDADES",Animal_Planet-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Arte_1" tvg-logo="" group-title="FILMES E SERIES",Arte_1
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31810.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN-SD" tvg-logo="" group-title="FILMES E SERIES",AXN-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31808.m3u8
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN-HD" tvg-logo="" group-title="FILMES E SERIES",AXN-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Baby_TV" tvg-logo="" group-title="KIDS",Baby_TV
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31812.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Bandeirantes-SD" tvg-logo="" group-title="CANAIS ABERTOS",Bandeirantes-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31815.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND-HD" tvg-logo="" group-title="CANAIS ABERTOS",BAND-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31999.m3u8
+#EXTINF:-1 tvg-id="band.br" tvg-name="BD-RECIFE-TV-TRIBUNA-HD" tvg-logo="" group-title="ABERTOS GUARARAPES",BD-RECIFE-TV-TRIBUNA-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31974.m3u8
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name=" BANDNEWS-SD" tvg-logo="" group-title="NOTICIARIOS", BANDNEWS-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BandNews-HD" tvg-logo="" group-title="NOTICIARIOS",BandNews-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31813.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Band_Sports-SD" tvg-logo="" group-title="SPORTS",Band_Sports-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31814.m3u8
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND-SPORTS-HD" tvg-logo="" group-title="SPORTS",BAND-SPORTS-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="" group-title="FILMES E SERIES",BIS
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31811.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boa_Vontade_TV" tvg-logo="" group-title="RELIGIOSOS",Boa_Vontade_TV
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31816.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal_Brasil-SD" tvg-logo="" group-title="FILMES E SERIES",Canal_Brasil-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31822.m3u8
+#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL_BRASIL-HD" tvg-logo="" group-title="FILMES E SERIES",CANAL_BRASIL-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal_Comunitario" tvg-logo="" group-title="CANAIS ABERTOS",Canal_Comunitario
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31823.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal_do_Criador" tvg-logo="" group-title="RELIGIOSOS",Canal_do_Criador
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31827.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal_Educacao_-_MEC" tvg-logo="" group-title="CANAIS ABERTOS",Canal_Educacao_-_MEC
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31824.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canal_Rural" tvg-logo="" group-title="CANAIS RURAIS",Canal_Rural
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31825.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cancao_Nova" tvg-logo="" group-title="RELIGIOSOS",Cancao_Nova
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31828.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="" group-title="KIDS",Cartoonito
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31830.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon_Network" tvg-logo="" group-title="KIDS",Cartoon_Network
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31829.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CINECANAL" tvg-logo="" group-title="FILMES E SERIES",CINECANAL
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31817.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax-SD" tvg-logo="" group-title="FILMES E SERIES",Cinemax-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31831.m3u8
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX-HD" tvg-logo="" group-title="FILMES E SERIES",CINEMAX-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32002.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN_Brasil-SD" tvg-logo="" group-title="NOTICIARIOS",CNN_Brasil-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31818.m3u8
+#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN_BRASIL-HD" tvg-logo="" group-title="NOTICIARIOS",CNN_BRASIL-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN_Espanol" tvg-logo="" group-title="NOTICIARIOS",CNN_Espanol
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31819.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNN_Internacional" tvg-logo="" group-title="NOTICIARIOS",CNN_Internacional
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CNT" tvg-logo="" group-title="NOTICIARIOS",CNT
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31821.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Combate-SD" tvg-logo="" group-title="SPORTS",Combate-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31832.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE-HD" tvg-logo="" group-title="SPORTS",COMBATE-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Comedy_Central-SD" tvg-logo="" group-title="VARIEDADES",Comedy_Central-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31833.m3u8
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY_CENTRAL-HD" tvg-logo="" group-title="VARIEDADES",COMEDY_CENTRAL-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Curta" tvg-logo="" group-title="VARIEDADES",Curta
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31834.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISC_CHANNEL-SD" tvg-logo="" group-title="VARIEDADES",DISC_CHANNEL-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31836.m3u8
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="DISC_CHANNEL-HD" tvg-logo="" group-title="VARIEDADES",DISC_CHANNEL-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISC_H&HEALTH-SD" tvg-logo="" group-title="VARIEDADES",DISC_H&HEALTH-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31837.m3u8
+#EXTINF:-1 tvg-id="discoveryhomeandhealth.ar" tvg-name="DISC_H&HEALTH-HD" tvg-logo="" group-title="VARIEDADES",DISC_H&HEALTH-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISC_KIDS-SD" tvg-logo="" group-title="KIDS",DISC_KIDS-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31838.m3u8
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISC_KIDS-HD" tvg-logo="" group-title="KIDS",DISC_KIDS-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISC_TURBO-SD" tvg-logo="" group-title="VARIEDADES",DISC_TURBO-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31839.m3u8
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="DISC_TURBO-HD" tvg-logo="" group-title="VARIEDADES",DISC_TURBO-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISC_ID-SD" tvg-logo="" group-title="VARIEDADES",DISC_ID-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31873.m3u8
+#EXTINF:-1 tvg-id="discoveryid.ae" tvg-name="DISC_ID-HD" tvg-logo="" group-title="VARIEDADES",DISC_ID-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32012.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.ar" tvg-name="DISC_SCIENCE-SD" tvg-logo="" group-title="VARIEDADES",DISC_SCIENCE-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32015.m3u8
+#EXTINF:-1 tvg-id="discoveryscience.sa" tvg-name="DISC_SCIENCE-HD" tvg-logo="" group-title="VARIEDADES",DISC_SCIENCE-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY-SD" tvg-logo="" group-title="KIDS",DISNEY-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31840.m3u8
+#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="DISNEY-HD" tvg-logo="" group-title="KIDS",DISNEY-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="NOTICIARIOS",DW
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31835.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="E!-SD" tvg-logo="" group-title="VARIEDADES",E!-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31841.m3u8
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E!-HD" tvg-logo="" group-title="VARIEDADES",E!-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN-SD" tvg-logo="" group-title="SPORTS",ESPN-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31845.m3u8
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN-HD" tvg-logo="" group-title="SPORTS",ESPN-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN2-SD" tvg-logo="" group-title="SPORTS",ESPN2-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31846.m3u8
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN2-HD" tvg-logo="" group-title="SPORTS",ESPN2-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN3-SD" tvg-logo="" group-title="SPORTS",ESPN3-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31847.m3u8
+#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN3-HD" tvg-logo="" group-title="SPORTS",ESPN3-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ESPN4-SD" tvg-logo="" group-title="SPORTS",ESPN4-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31848.m3u8
+#EXTINF:-1 tvg-id="espn4.br" tvg-name="ESPN4-HD" tvg-logo="" group-title="SPORTS",ESPN4-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Film_e_Arts" tvg-logo="" group-title="FILMES E SERIES",Film_e_Arts
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31850.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Fish_TV" tvg-logo="" group-title="SPORTS",Fish_TV
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31851.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOOD_NETWORK-SD" tvg-logo="" group-title="VARIEDADES",FOOD_NETWORK-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31852.m3u8
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD_NETWORK-HD" tvg-logo="" group-title="VARIEDADES",FOOD_NETWORK-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX_SPORTS2-SD" tvg-logo="" group-title="SPORTS",FOX_SPORTS2-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31853.m3u8
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX_SPORTS2-HD" tvg-logo="" group-title="SPORTS",FOX_SPORTS2-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Futura" tvg-logo="" group-title="CANAIS ABERTOS",Futura
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31854.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FX-SD" tvg-logo="" group-title="FILMES E SERIES",FX-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31849.m3u8
+#EXTINF:-1 tvg-id="fx.ar" tvg-name="FX-HD" tvg-logo="" group-title="FILMES E SERIES",FX-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO_NEWS-SD" tvg-logo="" group-title="NOTICIARIOS",GLOBO_NEWS-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31861.m3u8
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO_NEWS-HD" tvg-logo="" group-title="NOTICIARIOS",GLOBO_NEWS-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32022.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo_Brasilia" tvg-logo="" group-title="GLOBO",Globo_Brasilia
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31856.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo_Minas" tvg-logo="" group-title="GLOBO",Globo_Minas
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31857.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo_Nordeste-sd" tvg-logo="" group-title="GLOBO",Globo_Nordeste-sd
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31858.m3u8
+#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO_PERNAMBUCO-HD" tvg-logo="" group-title="ABERTOS GUARARAPES",GLOBO_PERNAMBUCO-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo_RJ" tvg-logo="" group-title="GLOBO",Globo_RJ
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31859.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Globo_SP" tvg-logo="" group-title="GLOBO",Globo_SP
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31860.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPTV_Campinas" tvg-logo="" group-title="GLOBO",EPTV_Campinas
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31842.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPTV_Ribeirao_Preto" tvg-logo="" group-title="GLOBO",EPTV_Ribeirao_Preto
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31843.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EPTV_Sao_Carlos" tvg-logo="" group-title="GLOBO",EPTV_Sao_Carlos
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31844.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOB-SD" tvg-logo="" group-title="KIDS",GLOOB-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31862.m3u8
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB-HD" tvg-logo="" group-title="KIDS",GLOOB-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32024.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO-SD" tvg-logo="" group-title="KIDS",GLOOBINHO-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31863.m3u8
+#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO-HD" tvg-logo="" group-title="KIDS",GLOOBINHO-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32023.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GNT-SD" tvg-logo="" group-title="VARIEDADES",GNT-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31855.m3u8
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT-HD" tvg-logo="" group-title="VARIEDADES",GNT-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32025.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO-SD" tvg-logo="" group-title="FILMES E SERIES",HBO-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31864.m3u8
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO-HD" tvg-logo="" group-title="FILMES E SERIES",HBO-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32026.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO2-SD" tvg-logo="" group-title="FILMES E SERIES",HBO2-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31870.m3u8
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO2-HD" tvg-logo="" group-title="FILMES E SERIES",HBO2-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO-Family-SD" tvg-logo="" group-title="FILMES E SERIES",HBO-Family-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31865.m3u8
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO-FAMILY-HD" tvg-logo="" group-title="FILMES E SERIES",HBO-FAMILY-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32028.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO-MUNDI-SD" tvg-logo="" group-title="FILMES E SERIES",HBO-MUNDI-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31866.m3u8
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO-MUNDI-HD" tvg-logo="" group-title="FILMES E SERIES",HBO-MUNDI-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO-POP-SD" tvg-logo="" group-title="FILMES E SERIES",HBO-POP-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31867.m3u8
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO-POP-HD" tvg-logo="" group-title="FILMES E SERIES",HBO-POP-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO-Signature-SD" tvg-logo="" group-title="FILMES E SERIES",HBO-Signature-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31868.m3u8
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO-SIGNATUREH-DH" tvg-logo="" group-title="FILMES E SERIES",HBO-SIGNATUREH-DH
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32031.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HBO-XTREME-SD" tvg-logo="" group-title="FILMES E SERIES",HBO-XTREME-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31869.m3u8
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO-XTREME-HD" tvg-logo="" group-title="FILMES E SERIES",HBO-XTREME-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32032.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY-SD" tvg-logo="" group-title="DOCUMENTÁRIOS",HISTORY-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32033.m3u8
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="HISTORY-HD" tvg-logo="" group-title="DOCUMENTÁRIOS",HISTORY-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32034.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORY2-SD" tvg-logo="" group-title="DOCUMENTÁRIOS",HISTORY2-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31871.m3u8
+#EXTINF:-1 tvg-id="historychannel.ar" tvg-name="HISTORY2- HD" tvg-logo="" group-title="DOCUMENTÁRIOS",HISTORY2- HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32035.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="I-SAT" tvg-logo="" group-title="VARIEDADES",I-SAT
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31872.m3u8
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM_PAN_NEWS-SD" tvg-logo="" group-title="NOTICIARIOS",JOVEM_PAN_NEWS-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31973.m3u8
+#EXTINF:-1 tvg-id="jovempannews.br" tvg-name="JOVEM_PAN_NEWS-HD" tvg-logo="" group-title="NOTICIARIOS",JOVEM_PAN_NEWS-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32036.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IDEAL_TV" tvg-logo="" group-title="VARIEDADES",IDEAL_TV
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31874.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Inter_TV_Cabugi" tvg-logo="" group-title="GLOBO",Inter_TV_Cabugi
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime-SD" tvg-logo="" group-title="FILMES E SERIES",Lifetime-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31876.m3u8
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME-HD" tvg-logo="" group-title="FILMES E SERIES",LIFETIME-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32037.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MegaPix-sd" tvg-logo="" group-title="FILMES E SERIES",MegaPix-sd
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31878.m3u8
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX-HD" tvg-logo="" group-title="FILMES E SERIES",MEGAPIX-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32038.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Modo_Viagem" tvg-logo="" group-title="VARIEDADES",Modo_Viagem
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV-SD" tvg-logo="" group-title="VARIEDADES",MTV-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31877.m3u8
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV-HD" tvg-logo="" group-title="VARIEDADES",MTV-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32039.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Multishow-SD" tvg-logo="" group-title="VARIEDADES",Multishow-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31880.m3u8
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW-HD" tvg-logo="" group-title="VARIEDADES",MULTISHOW-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32040.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Music_Box_Brazil" tvg-logo="" group-title="VARIEDADES",Music_Box_Brazil
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="National_Geographic-SD" tvg-logo="" group-title="VARIEDADES",National_Geographic-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31883.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NATGEO-HD" tvg-logo="" group-title="VARIEDADES",NATGEO-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32041.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NHK" tvg-logo="" group-title="NOTICIARIOS",NHK
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31882.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon-SD" tvg-logo="" group-title="KIDS",Nickelodeon-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31885.m3u8
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICKELODEON-HD" tvg-logo="" group-title="KIDS",NICKELODEON-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32042.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick_Jr-SD" tvg-logo="" group-title="KIDS",Nick_Jr-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31884.m3u8
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK_JR-HD" tvg-logo="" group-title="KIDS",NICK_JR-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32043.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="" group-title="SPORTS",OFF
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31886.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pai_Eterno" tvg-logo="" group-title="RELIGIOSOS",Pai_Eterno
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31887.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT/CONMEBOL -SD" tvg-logo="" group-title="SPORTS",PARAMOUNT/CONMEBOL -SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31889.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Paramount_Network-SD" tvg-logo="" group-title="FILMES E SERIES",Paramount_Network-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31888.m3u8
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT-HD" tvg-logo="" group-title="FILMES E SERIES",PARAMOUNT-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32044.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Play_TV" tvg-logo="" group-title="VARIEDADES",Play_TV
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31890.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Polishop_TV" tvg-logo="" group-title="VARIEDADES",Polishop_TV
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31892.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PFC2-SD" tvg-logo="" group-title="SPORTS",PFC2-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31893.m3u8
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PFC2 -HD" tvg-logo="" group-title="SPORTS",PFC2 -HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32045.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PFC3-SD" tvg-logo="" group-title="SPORTS",PFC3-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31894.m3u8
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PFC3-HD" tvg-logo="" group-title="SPORTS",PFC3-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32046.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PFC4-SD" tvg-logo="" group-title="SPORTS",PFC4-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31895.m3u8
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PFC4-HD" tvg-logo="" group-title="SPORTS",PFC4-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32047.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PFC5-SD" tvg-logo="" group-title="SPORTS",PFC5-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31896.m3u8
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PFC5-HD" tvg-logo="" group-title="SPORTS",PFC5-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32048.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PFC6-SD" tvg-logo="" group-title="SPORTS",PFC6-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31897.m3u8
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PFC6-HD" tvg-logo="" group-title="SPORTS",PFC6-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32049.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PFC7-SD" tvg-logo="" group-title="SPORTS",PFC7-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31898.m3u8
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PFC7-HD" tvg-logo="" group-title="SPORTS",PFC7-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32050.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Premiere_Clubes-SD" tvg-logo="" group-title="SPORTS",Premiere_Clubes-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31900.m3u8
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIERE_CLUBES-HD" tvg-logo="" group-title="SPORTS",PREMIERE_CLUBES-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32051.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Prime_Box_Brazil" tvg-logo="" group-title="VARIEDADES",Prime_Box_Brazil
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31901.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RAI" tvg-logo="" group-title="NOTICIARIOS",RAI
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31902.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBI" tvg-logo="" group-title="RELIGIOSOS",RBI
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31903.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RBS_TV_Porto_Alegre" tvg-logo="" group-title="GLOBO",RBS_TV_Porto_Alegre
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31904.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RECORDTV-SD" tvg-logo="" group-title="CANAIS ABERTOS",RECORDTV-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31905.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORTV-HD" tvg-logo="" group-title="CANAIS ABERTOS",RECORTV-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32052.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORDTV-SP" tvg-logo="" group-title="CANAIS ABERTOS",RECORDTV-SP
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32086.m3u8
+#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RD-RECIFE -TVGUARARAPES-HD" tvg-logo="" group-title="ABERTOS GUARARAPES",RD-RECIFE -TVGUARARAPES-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Record_News-SD" tvg-logo="" group-title="NOTICIARIOS",Record_News-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31908.m3u8
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD_NEWS-HD" tvg-logo="" group-title="NOTICIARIOS",RECORD_NEWS-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32053.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede_Amazonica_Manaus" tvg-logo="" group-title="GLOBO",Rede_Amazonica_Manaus
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31909.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede_Brasil" tvg-logo="" group-title="CANAIS ABERTOS",Rede_Brasil
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31910.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede_TV-SD" tvg-logo="" group-title="CANAIS ABERTOS",Rede_TV-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31911.m3u8
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE_TV-HD" tvg-logo="" group-title="ABERTOS GUARARAPES",REDE_TV-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32054.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rede_Vida" tvg-logo="" group-title="RELIGIOSOS",Rede_Vida
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31912.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RIT" tvg-logo="" group-title="RELIGIOSOS",RIT
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31906.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RPC_TV_Curitiba" tvg-logo="" group-title="GLOBO",RPC_TV_Curitiba
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SBT-SD" tvg-logo="" group-title="CANAIS ABERTOS",SBT-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31913.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT-HD" tvg-logo="" group-title="CANAIS ABERTOS",SBT-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32055.m3u8
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT-RECIFE-TV-JORNAL-HD" tvg-logo="" group-title="ABERTOS GUARARAPES",SBT-RECIFE-TV-JORNAL-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SIC_Internacional" tvg-logo="" group-title="NOTICIARIOS",SIC_Internacional
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31914.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONY-SD" tvg-logo="" group-title="FILMES E SERIES",SONY-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31826.m3u8
+#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY-HD" tvg-logo="" group-title="FILMES E SERIES",SONY-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Space-SD" tvg-logo="" group-title="FILMES E SERIES",Space-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31918.m3u8
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE-HD" tvg-logo="" group-title="FILMES E SERIES",SPACE-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32056.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV-SD" tvg-logo="" group-title="SPORTS",SporTV-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31919.m3u8
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV-HD" tvg-logo="" group-title="SPORTS",SPORTV-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32057.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV2-SD" tvg-logo="" group-title="SPORTS",SporTV2-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31920.m3u8
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV2- HD" tvg-logo="" group-title="SPORTS",SPORTV2- HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32058.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SporTV3-SD" tvg-logo="" group-title="SPORTS",SporTV3-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31921.m3u8
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV3-HD" tvg-logo="" group-title="SPORTS",SPORTV3-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32059.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="STAR_CHANNEL-SD" tvg-logo="" group-title="FILMES E SERIES",STAR_CHANNEL-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31915.m3u8
+#EXTINF:-1 tvg-id="starchannel.br" tvg-name="STAR_CHANNEL-HD" tvg-logo="" group-title="FILMES E SERIES",STAR_CHANNEL-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32060.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Studio_Universal-SD" tvg-logo="" group-title="FILMES E SERIES",Studio_Universal-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31922.m3u8
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO_UNIVERSAL-HD" tvg-logo="" group-title="FILMES E SERIES",STUDIO_UNIVERSAL-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32061.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Syfy-SD" tvg-logo="" group-title="FILMES E SERIES",Syfy-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31923.m3u8
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY-HD" tvg-logo="" group-title="FILMES E SERIES",SYFY-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32062.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM-SD" tvg-logo="" group-title="FILMES E SERIES",TCM-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31924.m3u8
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM-HD" tvg-logo="" group-title="FILMES E SERIES",TCM-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32063.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine_Action-SD" tvg-logo="" group-title="FILMES E SERIES",Telecine_Action-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31948.m3u8
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TELECINE_ACTION-HD" tvg-logo="" group-title="FILMES E SERIES",TELECINE_ACTION-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32064.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine_Cult-SD" tvg-logo="" group-title="FILMES E SERIES",Telecine_Cult-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31949.m3u8
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TELECINE_CULT-HD" tvg-logo="" group-title="FILMES E SERIES",TELECINE_CULT-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32065.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine_Fun-SD" tvg-logo="" group-title="FILMES E SERIES",Telecine_Fun-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31950.m3u8
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TELECINE_FUN-HD" tvg-logo="" group-title="FILMES E SERIES",TELECINE_FUN-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32066.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine_Pipoca-SD" tvg-logo="" group-title="FILMES E SERIES",Telecine_Pipoca-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31951.m3u8
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TELECINE_PIPOCA-HD" tvg-logo="" group-title="FILMES E SERIES",TELECINE_PIPOCA-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32067.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine_Premium-SD" tvg-logo="" group-title="FILMES E SERIES",Telecine_Premium-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31952.m3u8
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TELECINE_PREMIUM-HD" tvg-logo="" group-title="FILMES E SERIES",TELECINE_PREMIUM-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32068.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telecine_Touch-SD" tvg-logo="" group-title="FILMES E SERIES",Telecine_Touch-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31953.m3u8
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE_TOUCH-HD" tvg-logo="" group-title="FILMES E SERIES",TELECINE_TOUCH-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32069.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Terra_Viva-SD" tvg-logo="" group-title="VARIEDADES",Terra_Viva-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="The_History_Channel" tvg-logo="" group-title="VARIEDADES",The_History_Channel
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TLC-SD" tvg-logo="" group-title="VARIEDADES",TLC-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31925.m3u8
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC-HD" tvg-logo="" group-title="VARIEDADES",TLC-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32070.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT-SD" tvg-logo="" group-title="FILMES E SERIES",TNT-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31926.m3u8
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT-HD" tvg-logo="" group-title="FILMES E SERIES",TNT-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32071.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT_Novelas-SD" tvg-logo="" group-title="FILMES E SERIES",TNT_Novelas-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31927.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT_Series-SD" tvg-logo="" group-title="FILMES E SERIES",TNT_Series-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31928.m3u8
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT_SERIES-HD" tvg-logo="" group-title="FILMES E SERIES",TNT_SERIES-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32072.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast-SD" tvg-logo="" group-title="KIDS",Tooncast-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31956.m3u8
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="TOONCAST-HD" tvg-logo="" group-title="KIDS",TOONCAST-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32073.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TruTV" tvg-logo="" group-title="VARIEDADES",TruTV
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV5_Monde" tvg-logo="" group-title="NOTICIARIOS",TV5_Monde
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31946.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVE" tvg-logo="" group-title="NOTICIARIOS",TVE
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31947.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Anhanguera_Goiania" tvg-logo="" group-title="GLOBO",TV_Anhanguera_Goiania
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31929.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Aparecida" tvg-logo="" group-title="RELIGIOSOS",TV_Aparecida
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31930.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Bahia" tvg-logo="" group-title="GLOBO",TV_Bahia
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31931.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Brasil" tvg-logo="" group-title="CANAIS ABERTOS",TV_Brasil
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31932.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Camara" tvg-logo="" group-title="CANAIS ABERTOS",TV_Camara
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31935.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Centro_America_Cuiaba" tvg-logo="" group-title="GLOBO",TV_Centro_America_Cuiaba
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31933.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Cultura" tvg-logo="" group-title="CANAIS ABERTOS",TV_Cultura
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31934.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Justica" tvg-logo="" group-title="CANAIS ABERTOS",TV_Justica
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31936.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Liberal_Belem" tvg-logo="" group-title="GLOBO",TV_Liberal_Belem
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31937.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Ra_tim_bum" tvg-logo="" group-title="KIDS",TV_Ra_tim_bum
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31938.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Senado" tvg-logo="" group-title="CANAIS ABERTOS",TV_Senado
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31939.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Tem_Bauru" tvg-logo="" group-title="GLOBO",TV_Tem_Bauru
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31940.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Tem_Sao_Jose_do_Rio_Preto" tvg-logo="" group-title="GLOBO",TV_Tem_Sao_Jose_do_Rio_Preto
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31942.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Tem_Sorocaba" tvg-logo="" group-title="GLOBO",TV_Tem_Sorocaba
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31941.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Tribuna_Santos" tvg-logo="" group-title="GLOBO",TV_Tribuna_Santos
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31943.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Vanguarda_S._J._dos_Campos" tvg-logo="" group-title="GLOBO",TV_Vanguarda_S._J._dos_Campos
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31944.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV_Verdes_Mares_Fortaleza" tvg-logo="" group-title="GLOBO",TV_Verdes_Mares_Fortaleza
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31945.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS" tvg-logo="" group-title="SPORTS",UFC FIGHT PASS
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="UFC FIGHT PASS 02" tvg-logo="" group-title="SPORTS",UFC FIGHT PASS 02
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31979.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSALTV-SD" tvg-logo="" group-title="FILMES E SERIES",UNIVERSALTV-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32074.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Universal_TV-HD" tvg-logo="" group-title="FILMES E SERIES",Universal_TV-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31958.m3u8
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL_TV-FHD" tvg-logo="" group-title="FILMES E SERIES",UNIVERSAL_TV-FHD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31988.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name=" VIVA-SD" tvg-logo="" group-title="VARIEDADES", VIVA-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Viva-HD" tvg-logo="" group-title="VARIEDADES",Viva-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31959.m3u8
+#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA FHD" tvg-logo="" group-title="VARIEDADES",VIVA FHD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31987.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Warner_Channel-SD" tvg-logo="" group-title="FILMES E SERIES",Warner_Channel-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31960.m3u8
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER_CHANEL-HD" tvg-logo="" group-title="FILMES E SERIES",WARNER_CHANEL-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32075.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Woohoo-SD" tvg-logo="" group-title="ESPORTE ONLINE",Woohoo-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31961.m3u8
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO-HD" tvg-logo="" group-title="SPORTS",WOOHOO-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32076.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZooMoo-SD" tvg-logo="" group-title="KIDS",ZooMoo-SD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31962.m3u8
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO-HD" tvg-logo="" group-title="KIDS",ZOOMOO-HD
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/32077.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Aeroporto Area Restrita 24h" tvg-logo="" group-title="CANAIS 24HRS",Aeroporto Area Restrita 24h
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Carga Pesada 24h" tvg-logo="" group-title="CANAIS 24HRS",Carga Pesada 24h
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Desenhos Bíblico 24" tvg-logo="" group-title="CANAIS 24HRS",Desenhos Bíblico 24
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MUNDO BITA 24h" tvg-logo="" group-title="CANAIS 24HRS",MUNDO BITA 24h
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="O Socio 24h" tvg-logo="" group-title="CANAIS 24HRS",O Socio 24h
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="3 palavrinhas 24h" tvg-logo="" group-title="CANAIS 24HRS",3 palavrinhas 24h
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31968.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Policia 24h" tvg-logo="" group-title="CANAIS 24HRS",Policia 24h
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OPERACAO POLICIAL  24h" tvg-logo="" group-title="CANAIS 24HRS",OPERACAO POLICIAL  24h
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="chaves 24h" tvg-logo="" group-title="CANAIS 24HRS",chaves 24h
+http://45.235.3.130:25461/live/rafaelhenriqueunilink/zxcvb/31993.m3u8
